@@ -2,9 +2,6 @@
 
 ![](https://github.com/Vipin-Andel/call_centre_excel_project/blob/main/customer_service_logo.png)
 
-[![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
-
 > A comprehensive Excel-based call center performance analytics dashboard providing actionable insights into customer satisfaction, representative performance, and operational metrics.
 
 ## Project Overview
