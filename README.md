@@ -1,6 +1,6 @@
 # Call Center Analytics Dashboard
 
-![](https://github.com/Vipin-Andel/call_centre_excel_project/blob/main/customer_service_logo.png)
+![]([https://github.com/Vipin-Andel/call_centre_excel_project/blob/main/customer_service_logo.png](https://github.com/Vipin-Andel/call_centre_excel_project/blob/main/call_centre_design.png))
 
 > A comprehensive Excel-based call center performance analytics dashboard providing actionable insights into customer satisfaction, representative performance, and operational metrics.
 
